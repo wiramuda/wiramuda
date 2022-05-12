@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **wiramuda** 
+I'm currently learning about RESTful API using java with spring framework and node js with hapi js framework
+I am also enthusiastic about competitive programming and data structure algorithms but i'm still newbie in that field
+currenly i am a final grade student at [Del Institute of Technology](https://www.del.ac.id) majoring Electrical Engineering
+if you want to attach with me you can go to my [linkein](www.linkedin.com/in/wiramuda-pakpahan-5b2423238)
